@@ -7,7 +7,7 @@ Running at [http://afternoon-reef-51666.herokuapp.com/donations/](http://afterno
 Your task is to:
 
 1. Add a page with a form for CREATING new donations from existing donors in the database:
-  * The page should have a form, with a field for the donor name and a field for the amount of the donation.
+  * The page should have a form, with a field for the donor name and a field for the amount of the donation. 
   * The method of the form should be POST.
   * You will need to create a template for this page, inside of the `templates` directory. The template should inherit from `base.jinja2`.
   * You should create a route and a handler function inside of `main.py`. The handler function should accept both GET requests and POST requests.

@@ -18,3 +18,4 @@ class Donation(Model):
     class Meta:
         database = db
 
+ 
